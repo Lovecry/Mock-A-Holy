@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 8cf8796cda33bbe45a17b01814e29624
+timeCreated: 1454241011
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pl_Idle_0
+    21300002: Pl_Idle_1
+    21300004: Pl_Idle_2
+    21300006: Pl_Idle_3
+    21300008: Pl_Idle_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pl_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 53}
+        - {x: -65, y: 13}
+        - {x: -65, y: -170}
+        - {x: -59, y: -177}
+        - {x: 79, y: -177}
+        - {x: 79, y: 9}
+        - {x: 34, y: 53}
+      - - {x: 32, y: 24}
+        - {x: 28, y: 23}
+        - {x: 28, y: 18}
+        - {x: 31, y: 15}
+        - {x: 35, y: 15}
+        - {x: 38, y: 18}
+        - {x: 38, y: 21}
+        - {x: 37, y: 24}
+    - name: Pl_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -176}
+        - {x: 68, y: -176}
+        - {x: 76, y: -172}
+        - {x: 76, y: 37}
+        - {x: -51, y: 37}
+        - {x: -68, y: 7}
+        - {x: -68, y: -151}
+        - {x: -50, y: -176}
+        - {x: -7, y: -176}
+        - {x: -3, y: -163}
+        - {x: -14, y: -131}
+        - {x: 24, y: -174}
+      - - {x: 31, y: 15}
+        - {x: 27, y: 14}
+        - {x: 27, y: 9}
+        - {x: 30, y: 6}
+        - {x: 34, y: 6}
+        - {x: 37, y: 9}
+        - {x: 37, y: 12}
+        - {x: 36, y: 15}
+    - name: Pl_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 14}
+        - {x: -66, y: -29}
+        - {x: -66, y: -123}
+        - {x: -43, y: -175}
+        - {x: -39, y: -177}
+        - {x: 77, y: -177}
+        - {x: 77, y: 14}
+    - name: Pl_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -176}
+        - {x: 67, y: -176}
+        - {x: 75, y: -172}
+        - {x: 75, y: 37}
+        - {x: -52, y: 37}
+        - {x: -69, y: 7}
+        - {x: -69, y: -151}
+        - {x: -51, y: -176}
+        - {x: -8, y: -176}
+        - {x: -4, y: -163}
+        - {x: -15, y: -131}
+        - {x: 23, y: -174}
+      - - {x: 30, y: 15}
+        - {x: 26, y: 14}
+        - {x: 26, y: 9}
+        - {x: 29, y: 6}
+        - {x: 33, y: 6}
+        - {x: 36, y: 9}
+        - {x: 36, y: 12}
+        - {x: 35, y: 15}
+    - name: Pl_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 53}
+        - {x: -65, y: 13}
+        - {x: -65, y: -170}
+        - {x: -59, y: -177}
+        - {x: 79, y: -177}
+        - {x: 79, y: 9}
+        - {x: 34, y: 53}
+      - - {x: 32, y: 24}
+        - {x: 28, y: 23}
+        - {x: 28, y: 18}
+        - {x: 31, y: 15}
+        - {x: 35, y: 15}
+        - {x: 38, y: 18}
+        - {x: 38, y: 21}
+        - {x: 37, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

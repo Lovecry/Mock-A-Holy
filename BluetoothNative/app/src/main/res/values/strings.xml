@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_gesture">Mock-A-Holy</string>
+    <string name="app_name">BluetoothNative</string>
+    <string name="Text">Bluetooth Disconnected</string>
+    <string name="TurnOnBluetooth">Turn On</string>
+    <string name="TurnOffBluetooth">Turn Off</string>
+    <string name="ListKnownDevices">List known devices</string>
+    <string name="FindNearDevices">Find near devices</string>
+    <string name="title_activity_native_bluetooth">NativeBluetooth</string>
+</resources>

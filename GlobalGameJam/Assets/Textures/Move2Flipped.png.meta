@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: d813f7bcd16a79948a5c8fbcc7ce605b
+timeCreated: 1454176350
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Move2Flipped_0
+    21300002: Move2Flipped_1
+    21300004: Move2Flipped_2
+    21300006: Move2Flipped_3
+    21300008: Move2Flipped_4
+    21300010: Move2Flipped_5
+    21300012: Move2Flipped_6
+    21300014: Move2Flipped_7
+    21300016: Move2Flipped_8
+    21300018: Move2Flipped_9
+    21300020: Move2Flipped_10
+    21300022: Move2Flipped_11
+    21300024: Move2Flipped_12
+    21300026: Move2Flipped_13
+    21300028: Move2Flipped_14
+    21300030: Move2Flipped_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Move2Flipped_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -177}
+        - {x: 74, y: -136}
+        - {x: 74, y: 37}
+        - {x: 71, y: 58}
+        - {x: 31, y: 97}
+        - {x: 15, y: 97}
+        - {x: 8, y: 77}
+        - {x: 5, y: 54}
+        - {x: 13, y: 44}
+        - {x: 16, y: 44}
+        - {x: 16, y: 39}
+        - {x: 17, y: 37}
+        - {x: 19, y: 32}
+        - {x: 16, y: 40}
+        - {x: 10, y: 45}
+        - {x: 5, y: 48}
+        - {x: -4, y: 48}
+        - {x: -1, y: 49}
+        - {x: 1, y: 59}
+        - {x: -3, y: 81}
+        - {x: -20, y: 97}
+        - {x: -29, y: 97}
+        - {x: -38, y: 71}
+        - {x: -32, y: 31}
+        - {x: -66, y: -11}
+        - {x: -66, y: -78}
+        - {x: -50, y: -177}
+        - {x: -19, y: -177}
+        - {x: -3, y: -169}
+        - {x: -6, y: -126}
+        - {x: 28, y: -177}
+    - name: Move2Flipped_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -109}
+        - {x: 70, y: -14}
+        - {x: 36, y: 55}
+        - {x: 10, y: 62}
+        - {x: 8, y: 58}
+        - {x: 6, y: 19}
+        - {x: 11, y: 15}
+        - {x: 0, y: 15}
+        - {x: 1, y: 15}
+        - {x: 5, y: 17}
+        - {x: 4, y: 36}
+        - {x: 4, y: 64}
+        - {x: 0, y: 67}
+        - {x: -3, y: 67}
+        - {x: -7, y: 61}
+        - {x: -9, y: 46}
+        - {x: -8, y: 45}
+        - {x: -8, y: 54}
+        - {x: -11, y: 57}
+        - {x: -17, y: 56}
+        - {x: -60, y: -10}
+        - {x: -60, y: -114}
+        - {x: -41, y: -177}
+        - {x: 64, y: -177}
+        - {x: 60, y: -164}
+        - {x: 53, y: -159}
+    - name: Move2Flipped_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 54}
+        - {x: -48, y: -21}
+        - {x: -48, y: -176}
+        - {x: 74, y: -176}
+        - {x: 74, y: 82}
+        - {x: 33, y: 82}
+        - {x: 32, y: 81}
+        - {x: 32, y: 74}
+      - - {x: 2, y: 42}
+        - {x: 8, y: 31}
+        - {x: 16, y: 31}
+        - {x: 16, y: 50}
+        - {x: 14, y: 65}
+        - {x: 11, y: 66}
+        - {x: 6, y: 66}
+        - {x: 2, y: 60}
+      - - {x: 21, y: 80}
+        - {x: 15, y: 80}
+        - {x: 13, y: 70}
+        - {x: 13, y: 42}
+        - {x: 15, y: 36}
+        - {x: 18, y: 34}
+        - {x: 23, y: 34}
+        - {x: 24, y: 37}
+        - {x: 24, y: 73}
+        - {x: 23, y: 79}
+    - name: Move2Flipped_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 72}
+        - {x: 65, y: 67}
+        - {x: 65, y: 54}
+        - {x: 60, y: 43}
+        - {x: 63, y: 56}
+        - {x: 65, y: 76}
+        - {x: 56, y: 86}
+        - {x: 52, y: 87}
+        - {x: 30, y: 87}
+        - {x: 23, y: 66}
+        - {x: 25, y: 47}
+        - {x: 26, y: 43}
+        - {x: 28, y: 38}
+        - {x: 28, y: 34}
+        - {x: 26, y: 44}
+        - {x: 20, y: 54}
+        - {x: 22, y: 70}
+        - {x: 15, y: 72}
+        - {x: 12, y: 67}
+        - {x: 10, y: 60}
+        - {x: 0, y: 53}
+        - {x: -52, y: -16}
+        - {x: -60, y: -82}
+        - {x: -60, y: -156}
+        - {x: -20, y: -144}
+        - {x: -13, y: -125}
+        - {x: 32, y: -174}
+        - {x: 37, y: -176}
+        - {x: 78, y: -176}
+        - {x: 78, y: 69}
+        - {x: 74, y: 75}
+    - name: Move2Flipped_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 35}
+        - {x: 67, y: 35}
+        - {x: 63, y: 32}
+        - {x: 57, y: 31}
+        - {x: 53, y: 31}
+        - {x: 51, y: 36}
+        - {x: 48, y: 38}
+        - {x: 52, y: 37}
+        - {x: 52, y: 34}
+        - {x: 54, y: 32}
+        - {x: 61, y: 32}
+        - {x: 66, y: 34}
+        - {x: 70, y: 38}
+        - {x: 79, y: 55}
+        - {x: 79, y: 86}
+        - {x: 77, y: 88}
+        - {x: 57, y: 91}
+        - {x: 52, y: 68}
+        - {x: 44, y: 95}
+        - {x: 34, y: 95}
+        - {x: 28, y: 88}
+        - {x: 24, y: 77}
+        - {x: 24, y: 79}
+        - {x: 22, y: 80}
+        - {x: 18, y: 81}
+        - {x: 2, y: 61}
+        - {x: -63, y: 22}
+        - {x: -51, y: -31}
+        - {x: -30, y: -37}
+        - {x: -14, y: -39}
+        - {x: -10, y: -39}
+        - {x: -14, y: -39}
+        - {x: -22, y: -38}
+        - {x: -45, y: -36}
+        - {x: -62, y: -50}
+        - {x: -69, y: -94}
+        - {x: -69, y: -135}
+        - {x: -52, y: -172}
+        - {x: -21, y: -176}
+        - {x: 79, y: -176}
+        - {x: 79, y: 53}
+        - {x: 71, y: 40}
+    - name: Move2Flipped_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 77}
+        - {x: -44, y: 77}
+        - {x: -86, y: 20}
+        - {x: -86, y: -177}
+        - {x: -60, y: -177}
+        - {x: -41, y: -165}
+        - {x: 27, y: -177}
+        - {x: 54, y: -177}
+        - {x: 55, y: -176}
+        - {x: 55, y: -171}
+        - {x: 51, y: -104}
+        - {x: 41, y: 73}
+      - - {x: 11, y: 73}
+        - {x: -3, y: 50}
+        - {x: -5, y: 39}
+        - {x: -5, y: 34}
+        - {x: -3, y: 32}
+        - {x: 2, y: 32}
+        - {x: 21, y: 51}
+        - {x: 24, y: 65}
+        - {x: 24, y: 73}
+    - name: Move2Flipped_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 7}
+        - {x: -39, y: 7}
+        - {x: -37, y: 7}
+        - {x: -34, y: 10}
+        - {x: -34, y: 16}
+        - {x: -14, y: 56}
+        - {x: -15, y: 57}
+        - {x: -102, y: 57}
+        - {x: -102, y: -178}
+        - {x: 60, y: -178}
+        - {x: 60, y: -40}
+        - {x: 38, y: 54}
+        - {x: 2, y: 31}
+        - {x: -15, y: 15}
+      - - {x: -4, y: 49}
+        - {x: -19, y: 36}
+        - {x: -24, y: 20}
+        - {x: -24, y: 5}
+        - {x: -15, y: 5}
+        - {x: 5, y: 39}
+        - {x: 5, y: 49}
+    - name: Move2Flipped_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 55}
+        - {x: 6, y: 47}
+        - {x: -8, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: 15}
+        - {x: -9, y: 18}
+        - {x: 14, y: 65}
+        - {x: 12, y: 78}
+        - {x: -57, y: 78}
+        - {x: -52, y: 51}
+        - {x: -52, y: 20}
+        - {x: -53, y: 37}
+        - {x: -55, y: 39}
+        - {x: -58, y: 41}
+        - {x: -65, y: 28}
+        - {x: -93, y: -6}
+        - {x: -93, y: -176}
+        - {x: 70, y: -176}
+        - {x: 70, y: -132}
+        - {x: 43, y: 39}
+    - name: Move2Flipped_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: -175}
+        - {x: 67, y: -146}
+        - {x: 12, y: 87}
+        - {x: -10, y: 87}
+        - {x: -12, y: 79}
+        - {x: -19, y: 30}
+        - {x: -16, y: 24}
+        - {x: -13, y: 20}
+        - {x: -10, y: 17}
+        - {x: -20, y: 25}
+        - {x: -34, y: 24}
+        - {x: -39, y: 22}
+        - {x: -45, y: 17}
+        - {x: -42, y: 23}
+        - {x: -38, y: 23}
+        - {x: -35, y: 24}
+        - {x: -36, y: 34}
+        - {x: -43, y: 74}
+        - {x: -50, y: 87}
+        - {x: -75, y: 87}
+        - {x: -96, y: 55}
+        - {x: -96, y: -137}
+        - {x: -79, y: -176}
+        - {x: -35, y: -176}
+        - {x: -24, y: -170}
+        - {x: 1, y: -176}
+        - {x: 65, y: -176}
+    - name: Move2Flipped_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 12}
+        - {x: -24, y: 8}
+        - {x: -20, y: 8}
+        - {x: -17, y: 10}
+        - {x: -15, y: 15}
+        - {x: -14, y: 19}
+        - {x: -15, y: 14}
+        - {x: -17, y: 7}
+        - {x: -17, y: 1}
+        - {x: -15, y: -1}
+        - {x: -21, y: 5}
+        - {x: -30, y: 8}
+        - {x: -30, y: 64}
+        - {x: -31, y: 67}
+        - {x: -55, y: 67}
+        - {x: -105, y: 3}
+        - {x: -105, y: -159}
+        - {x: -100, y: -178}
+        - {x: 57, y: -178}
+        - {x: 57, y: -120}
+        - {x: -12, y: 67}
+        - {x: -20, y: 67}
+        - {x: -23, y: 62}
+    - name: Move2Flipped_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 79}
+        - {x: -61, y: 34}
+        - {x: -81, y: -28}
+        - {x: -81, y: -171}
+        - {x: -75, y: -173}
+        - {x: -61, y: -177}
+        - {x: -53, y: -177}
+        - {x: -36, y: -162}
+        - {x: 33, y: -177}
+        - {x: 63, y: -177}
+        - {x: 63, y: -12}
+        - {x: 60, y: 79}
+      - - {x: -47, y: 33}
+        - {x: -50, y: 32}
+        - {x: -50, y: 23}
+        - {x: -49, y: 20}
+        - {x: -38, y: 6}
+        - {x: -28, y: 6}
+        - {x: -27, y: 9}
+        - {x: -27, y: 13}
+        - {x: -42, y: 33}
+    - name: Move2Flipped_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 90}
+        - {x: 1, y: 88}
+        - {x: -2, y: 69}
+        - {x: -2, y: 71}
+        - {x: -11, y: 69}
+        - {x: -16, y: 36}
+        - {x: -13, y: 24}
+        - {x: -46, y: 0}
+        - {x: -51, y: -14}
+        - {x: -32, y: -42}
+        - {x: -53, y: -59}
+        - {x: -68, y: -122}
+        - {x: -68, y: -137}
+        - {x: -66, y: -144}
+        - {x: -28, y: -144}
+        - {x: -21, y: -125}
+        - {x: 25, y: -173}
+        - {x: 29, y: -176}
+        - {x: 61, y: -176}
+        - {x: 61, y: 61}
+        - {x: 45, y: 90}
+    - name: Move2Flipped_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 86}
+        - {x: 56, y: 54}
+        - {x: 56, y: 50}
+        - {x: 55, y: 49}
+        - {x: 56, y: 52}
+        - {x: 57, y: 93}
+        - {x: 51, y: 98}
+        - {x: -15, y: 98}
+        - {x: -69, y: 48}
+        - {x: -69, y: 4}
+        - {x: -52, y: -32}
+        - {x: -30, y: -37}
+        - {x: -14, y: -39}
+        - {x: -10, y: -39}
+        - {x: -14, y: -39}
+        - {x: -22, y: -38}
+        - {x: -45, y: -36}
+        - {x: -69, y: -39}
+        - {x: -69, y: -165}
+        - {x: -68, y: -176}
+        - {x: 73, y: -176}
+        - {x: 73, y: 78}
+        - {x: 62, y: 90}
+    - name: Move2Flipped_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 85}
+        - {x: -54, y: 84}
+        - {x: -54, y: -176}
+        - {x: 68, y: -176}
+        - {x: 68, y: 63}
+        - {x: 50, y: 85}
+      - - {x: 54, y: 60}
+        - {x: 40, y: 29}
+        - {x: 40, y: 20}
+        - {x: 54, y: 20}
+        - {x: 60, y: 44}
+        - {x: 60, y: 60}
+    - name: Move2Flipped_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -109}
+        - {x: 70, y: -14}
+        - {x: 36, y: 55}
+        - {x: 10, y: 62}
+        - {x: 8, y: 58}
+        - {x: 6, y: 19}
+        - {x: 11, y: 15}
+        - {x: 0, y: 15}
+        - {x: 1, y: 15}
+        - {x: 5, y: 17}
+        - {x: 4, y: 36}
+        - {x: 4, y: 64}
+        - {x: 0, y: 67}
+        - {x: -3, y: 67}
+        - {x: -7, y: 61}
+        - {x: -9, y: 46}
+        - {x: -8, y: 45}
+        - {x: -8, y: 54}
+        - {x: -11, y: 57}
+        - {x: -17, y: 56}
+        - {x: -60, y: -10}
+        - {x: -60, y: -114}
+        - {x: -41, y: -177}
+        - {x: 64, y: -177}
+        - {x: 60, y: -164}
+        - {x: 53, y: -159}
+    - name: Move2Flipped_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -177}
+        - {x: 74, y: -136}
+        - {x: 74, y: 37}
+        - {x: 71, y: 58}
+        - {x: 31, y: 97}
+        - {x: 15, y: 97}
+        - {x: 8, y: 77}
+        - {x: 5, y: 54}
+        - {x: 13, y: 44}
+        - {x: 16, y: 44}
+        - {x: 16, y: 39}
+        - {x: 17, y: 37}
+        - {x: 19, y: 32}
+        - {x: 16, y: 40}
+        - {x: 10, y: 45}
+        - {x: 5, y: 48}
+        - {x: -4, y: 48}
+        - {x: -1, y: 49}
+        - {x: 1, y: 59}
+        - {x: -3, y: 81}
+        - {x: -20, y: 97}
+        - {x: -29, y: 97}
+        - {x: -38, y: 71}
+        - {x: -32, y: 31}
+        - {x: -66, y: -11}
+        - {x: -66, y: -78}
+        - {x: -50, y: -177}
+        - {x: -19, y: -177}
+        - {x: -3, y: -169}
+        - {x: -6, y: -126}
+        - {x: 28, y: -177}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

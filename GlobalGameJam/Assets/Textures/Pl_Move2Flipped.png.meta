@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 8b52e630d001d6f47ab874fb794e9ee3
+timeCreated: 1454233808
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pl_Move2Flipped_0
+    21300002: Pl_Move2Flipped_1
+    21300004: Pl_Move2Flipped_2
+    21300006: Pl_Move2Flipped_3
+    21300008: Pl_Move2Flipped_4
+    21300010: Pl_Move2Flipped_5
+    21300012: Pl_Move2Flipped_6
+    21300014: Pl_Move2Flipped_7
+    21300016: Pl_Move2Flipped_8
+    21300018: Pl_Move2Flipped_9
+    21300020: Pl_Move2Flipped_10
+    21300022: Pl_Move2Flipped_11
+    21300024: Pl_Move2Flipped_12
+    21300026: Pl_Move2Flipped_13
+    21300028: Pl_Move2Flipped_14
+    21300030: Pl_Move2Flipped_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pl_Move2Flipped_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -177}
+        - {x: 74, y: -82}
+        - {x: 74, y: -22}
+        - {x: 39, y: 91}
+        - {x: -7, y: 91}
+        - {x: -52, y: 88}
+        - {x: -66, y: 50}
+        - {x: -66, y: -144}
+        - {x: -50, y: -177}
+        - {x: -7, y: -177}
+        - {x: -3, y: -169}
+        - {x: -6, y: -126}
+        - {x: 28, y: -177}
+      - - {x: -51, y: 82}
+        - {x: -50, y: 79}
+        - {x: -47, y: 79}
+        - {x: -45, y: 81}
+        - {x: -46, y: 84}
+        - {x: -49, y: 84}
+    - name: Pl_Move2Flipped_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 60}
+        - {x: -60, y: -177}
+        - {x: 70, y: -177}
+        - {x: 70, y: -10}
+        - {x: 26, y: 60}
+    - name: Pl_Move2Flipped_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 66}
+        - {x: -48, y: 9}
+        - {x: -48, y: -176}
+        - {x: 74, y: -176}
+        - {x: 74, y: 66}
+    - name: Pl_Move2Flipped_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 66}
+        - {x: -60, y: 40}
+        - {x: -60, y: -159}
+        - {x: -20, y: -144}
+        - {x: -13, y: -125}
+        - {x: 32, y: -174}
+        - {x: 37, y: -176}
+        - {x: 83, y: -176}
+        - {x: 83, y: 66}
+    - name: Pl_Move2Flipped_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 3}
+        - {x: -44, y: -26}
+        - {x: -30, y: -37}
+        - {x: -14, y: -39}
+        - {x: -10, y: -39}
+        - {x: -14, y: -39}
+        - {x: -22, y: -38}
+        - {x: -45, y: -36}
+        - {x: -69, y: -40}
+        - {x: -69, y: -176}
+        - {x: 83, y: -176}
+        - {x: 92, y: -107}
+        - {x: 92, y: 66}
+        - {x: -14, y: 66}
+        - {x: -66, y: 53}
+    - name: Pl_Move2Flipped_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: -170}
+        - {x: -83, y: -177}
+        - {x: 55, y: -177}
+        - {x: 55, y: -17}
+        - {x: 29, y: 56}
+        - {x: -4, y: 56}
+        - {x: -45, y: 52}
+        - {x: -86, y: 5}
+    - name: Pl_Move2Flipped_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -178}
+        - {x: 60, y: -178}
+        - {x: 60, y: -108}
+        - {x: 18, y: 42}
+        - {x: -27, y: 42}
+        - {x: -70, y: 26}
+        - {x: -102, y: -7}
+    - name: Pl_Move2Flipped_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 58}
+        - {x: -93, y: 19}
+        - {x: -93, y: -176}
+        - {x: 70, y: -176}
+        - {x: 70, y: -141}
+        - {x: 8, y: 58}
+    - name: Pl_Move2Flipped_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 63}
+        - {x: -70, y: 55}
+        - {x: -96, y: 11}
+        - {x: -96, y: -113}
+        - {x: -78, y: -176}
+        - {x: 67, y: -176}
+        - {x: 67, y: -65}
+        - {x: 23, y: 63}
+    - name: Pl_Move2Flipped_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: -19}
+        - {x: -105, y: -111}
+        - {x: -91, y: -175}
+        - {x: -90, y: -178}
+        - {x: 57, y: -178}
+        - {x: 57, y: -61}
+        - {x: 1, y: 44}
+        - {x: -20, y: 44}
+        - {x: -72, y: 29}
+    - name: Pl_Move2Flipped_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: -172}
+        - {x: -63, y: -177}
+        - {x: -52, y: -177}
+        - {x: -36, y: -162}
+        - {x: 33, y: -177}
+        - {x: 63, y: -177}
+        - {x: 63, y: -61}
+        - {x: 53, y: -5}
+        - {x: 28, y: 68}
+        - {x: -31, y: 68}
+        - {x: -81, y: 19}
+    - name: Pl_Move2Flipped_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -7}
+        - {x: -63, y: -58}
+        - {x: -68, y: -107}
+        - {x: -68, y: -152}
+        - {x: -28, y: -144}
+        - {x: -21, y: -125}
+        - {x: 22, y: -176}
+        - {x: 66, y: -176}
+        - {x: 66, y: 69}
+        - {x: 23, y: 69}
+        - {x: -2, y: 65}
+    - name: Pl_Move2Flipped_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 69}
+        - {x: -59, y: 17}
+        - {x: -47, y: -29}
+        - {x: -30, y: -37}
+        - {x: -14, y: -39}
+        - {x: -10, y: -39}
+        - {x: -14, y: -39}
+        - {x: -22, y: -38}
+        - {x: -45, y: -36}
+        - {x: -62, y: -50}
+        - {x: -69, y: -58}
+        - {x: -69, y: -176}
+        - {x: 63, y: -176}
+        - {x: 64, y: -175}
+        - {x: 73, y: -94}
+        - {x: 80, y: 19}
+        - {x: 80, y: 69}
+    - name: Pl_Move2Flipped_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 53}
+        - {x: -54, y: -176}
+        - {x: 53, y: -176}
+        - {x: 56, y: -174}
+        - {x: 68, y: -111}
+        - {x: 68, y: 43}
+        - {x: 67, y: 53}
+    - name: Pl_Move2Flipped_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 62}
+        - {x: -16, y: 62}
+        - {x: -60, y: 18}
+        - {x: -60, y: -138}
+        - {x: -37, y: -177}
+        - {x: 65, y: -177}
+        - {x: 70, y: -153}
+        - {x: 70, y: 0}
+    - name: Pl_Move2Flipped_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -177}
+        - {x: 74, y: -133}
+        - {x: 74, y: -8}
+        - {x: 36, y: 87}
+        - {x: 35, y: 90}
+        - {x: 29, y: 90}
+        - {x: -27, y: 71}
+        - {x: -66, y: -2}
+        - {x: -66, y: -75}
+        - {x: -45, y: -176}
+        - {x: -43, y: -177}
+        - {x: -19, y: -177}
+        - {x: -3, y: -169}
+        - {x: -6, y: -126}
+        - {x: 28, y: -177}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: f89c464a3cbe31840b4dbabf3d94bc36
+timeCreated: 1454176326
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Move2_0
+    21300002: Move2_1
+    21300004: Move2_2
+    21300006: Move2_3
+    21300008: Move2_4
+    21300010: Move2_5
+    21300012: Move2_6
+    21300014: Move2_7
+    21300016: Move2_8
+    21300018: Move2_9
+    21300020: Move2_10
+    21300022: Move2_11
+    21300024: Move2_12
+    21300026: Move2_13
+    21300028: Move2_14
+    21300030: Move2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Move2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -177}
+        - {x: 74, y: -136}
+        - {x: 74, y: 37}
+        - {x: 71, y: 58}
+        - {x: 31, y: 97}
+        - {x: 15, y: 97}
+        - {x: 8, y: 77}
+        - {x: 5, y: 54}
+        - {x: 13, y: 44}
+        - {x: 16, y: 44}
+        - {x: 16, y: 39}
+        - {x: 17, y: 37}
+        - {x: 19, y: 32}
+        - {x: 16, y: 40}
+        - {x: 10, y: 45}
+        - {x: 5, y: 48}
+        - {x: -4, y: 48}
+        - {x: -1, y: 49}
+        - {x: 1, y: 59}
+        - {x: -3, y: 81}
+        - {x: -20, y: 97}
+        - {x: -29, y: 97}
+        - {x: -38, y: 71}
+        - {x: -32, y: 31}
+        - {x: -66, y: -11}
+        - {x: -66, y: -78}
+        - {x: -50, y: -177}
+        - {x: -19, y: -177}
+        - {x: -3, y: -169}
+        - {x: -6, y: -126}
+        - {x: 28, y: -177}
+    - name: Move2_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -109}
+        - {x: 70, y: -14}
+        - {x: 36, y: 55}
+        - {x: 10, y: 62}
+        - {x: 8, y: 58}
+        - {x: 6, y: 19}
+        - {x: 11, y: 15}
+        - {x: 0, y: 15}
+        - {x: 1, y: 15}
+        - {x: 5, y: 17}
+        - {x: 4, y: 36}
+        - {x: 4, y: 64}
+        - {x: 0, y: 67}
+        - {x: -3, y: 67}
+        - {x: -7, y: 61}
+        - {x: -9, y: 46}
+        - {x: -8, y: 45}
+        - {x: -8, y: 54}
+        - {x: -11, y: 57}
+        - {x: -17, y: 56}
+        - {x: -60, y: -10}
+        - {x: -60, y: -114}
+        - {x: -41, y: -177}
+        - {x: 64, y: -177}
+        - {x: 60, y: -164}
+        - {x: 53, y: -159}
+    - name: Move2_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: -174}
+        - {x: 69, y: -111}
+        - {x: 69, y: -96}
+        - {x: 48, y: -74}
+        - {x: 36, y: -66}
+        - {x: 67, y: -36}
+        - {x: 69, y: -33}
+        - {x: 69, y: -6}
+        - {x: 31, y: 46}
+        - {x: 23, y: 46}
+        - {x: 20, y: 43}
+        - {x: -4, y: 82}
+        - {x: -29, y: 82}
+        - {x: -53, y: 21}
+        - {x: -53, y: -162}
+        - {x: -49, y: -176}
+        - {x: -12, y: -176}
+        - {x: -1, y: -170}
+        - {x: -11, y: -125}
+        - {x: 24, y: -153}
+        - {x: 47, y: -168}
+      - - {x: 6, y: 66}
+        - {x: 5, y: 63}
+        - {x: 5, y: 31}
+        - {x: 13, y: 31}
+        - {x: 19, y: 33}
+        - {x: 19, y: 65}
+        - {x: 17, y: 66}
+      - - {x: -1, y: 80}
+        - {x: -3, y: 77}
+        - {x: -3, y: 34}
+        - {x: 5, y: 34}
+        - {x: 8, y: 35}
+        - {x: 8, y: 80}
+    - name: Move2_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: -61}
+        - {x: 89, y: 14}
+        - {x: 10, y: 77}
+        - {x: 9, y: 70}
+        - {x: 9, y: 54}
+        - {x: 4, y: 36}
+        - {x: 7, y: 47}
+        - {x: 6, y: 65}
+        - {x: 4, y: 74}
+        - {x: -2, y: 87}
+        - {x: -6, y: 87}
+        - {x: -8, y: 85}
+        - {x: -8, y: 78}
+        - {x: -25, y: 84}
+        - {x: -29, y: 83}
+        - {x: -33, y: 76}
+        - {x: -33, y: 62}
+        - {x: -30, y: 48}
+        - {x: -26, y: 41}
+        - {x: -20, y: 35}
+        - {x: -17, y: 35}
+        - {x: -23, y: 35}
+        - {x: -35, y: 55}
+        - {x: -35, y: 66}
+        - {x: -44, y: 87}
+        - {x: -47, y: 87}
+        - {x: -47, y: -152}
+        - {x: -40, y: -176}
+        - {x: -10, y: -176}
+        - {x: -3, y: -173}
+        - {x: 91, y: -155}
+        - {x: 91, y: -101}
+    - name: Move2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: -31}
+        - {x: 85, y: 23}
+        - {x: 7, y: 79}
+        - {x: -1, y: 82}
+        - {x: -3, y: 79}
+        - {x: -2, y: 68}
+        - {x: -2, y: 71}
+        - {x: -4, y: 89}
+        - {x: -11, y: 95}
+        - {x: -33, y: 95}
+        - {x: -40, y: 89}
+        - {x: -47, y: 82}
+        - {x: -57, y: 66}
+        - {x: -57, y: 51}
+        - {x: -48, y: 39}
+        - {x: -44, y: 34}
+        - {x: -39, y: 32}
+        - {x: -32, y: 32}
+        - {x: -30, y: 34}
+        - {x: -30, y: 37}
+        - {x: -29, y: 36}
+        - {x: -31, y: 31}
+        - {x: -41, y: 32}
+        - {x: -45, y: 35}
+        - {x: -47, y: 37}
+        - {x: -52, y: 43}
+        - {x: -56, y: 44}
+        - {x: -57, y: 41}
+        - {x: -57, y: 33}
+        - {x: -47, y: 22}
+        - {x: -57, y: -39}
+        - {x: -57, y: -128}
+        - {x: -40, y: -176}
+        - {x: -3, y: -176}
+        - {x: 0, y: -173}
+        - {x: -1, y: -162}
+        - {x: 86, y: -136}
+        - {x: 91, y: -129}
+    - name: Move2_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 77}
+        - {x: -14, y: 51}
+        - {x: -35, y: -99}
+        - {x: -35, y: -177}
+        - {x: 106, y: -177}
+        - {x: 106, y: 19}
+        - {x: 61, y: 77}
+      - - {x: 7, y: 73}
+        - {x: -4, y: 73}
+        - {x: -4, y: 67}
+        - {x: 18, y: 32}
+        - {x: 25, y: 32}
+        - {x: 25, y: 46}
+        - {x: 16, y: 70}
+    - name: Move2_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 57}
+        - {x: 36, y: 57}
+        - {x: 35, y: 56}
+        - {x: 37, y: 51}
+        - {x: 54, y: 9}
+        - {x: 58, y: 7}
+        - {x: 60, y: 7}
+        - {x: 63, y: 9}
+        - {x: 62, y: 6}
+        - {x: 60, y: 7}
+        - {x: 43, y: 7}
+        - {x: 32, y: 24}
+        - {x: 7, y: 41}
+        - {x: -39, y: -130}
+        - {x: -39, y: -178}
+        - {x: 123, y: -178}
+        - {x: 123, y: -3}
+        - {x: 113, y: 25}
+      - - {x: 16, y: 49}
+        - {x: 16, y: 31}
+        - {x: 35, y: 5}
+        - {x: 45, y: 5}
+        - {x: 45, y: 23}
+        - {x: 29, y: 49}
+    - name: Move2_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: 40}
+        - {x: 86, y: 37}
+        - {x: 85, y: 19}
+        - {x: 86, y: 47}
+        - {x: 74, y: 70}
+        - {x: 68, y: 78}
+        - {x: 14, y: 78}
+        - {x: 19, y: 65}
+        - {x: 42, y: 18}
+        - {x: 41, y: 15}
+        - {x: 41, y: 7}
+        - {x: 41, y: 16}
+        - {x: 25, y: 46}
+        - {x: 21, y: 50}
+        - {x: -5, y: 64}
+        - {x: -37, y: -165}
+        - {x: -37, y: -174}
+        - {x: -32, y: -176}
+        - {x: 114, y: -176}
+        - {x: 126, y: -145}
+        - {x: 126, y: 35}
+        - {x: 107, y: 59}
+    - name: Move2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 87}
+        - {x: 74, y: 74}
+        - {x: 66, y: 34}
+        - {x: 66, y: 24}
+        - {x: 69, y: 23}
+        - {x: 76, y: 19}
+        - {x: 64, y: 24}
+        - {x: 50, y: 24}
+        - {x: 47, y: 23}
+        - {x: 42, y: 18}
+        - {x: 41, y: 15}
+        - {x: 43, y: 20}
+        - {x: 49, y: 27}
+        - {x: 44, y: 85}
+        - {x: 43, y: 87}
+        - {x: 16, y: 87}
+        - {x: -15, y: -21}
+        - {x: -37, y: -165}
+        - {x: -37, y: -174}
+        - {x: -32, y: -176}
+        - {x: 126, y: -176}
+        - {x: 126, y: 22}
+        - {x: 98, y: 87}
+    - name: Move2_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 67}
+        - {x: 49, y: 67}
+        - {x: 47, y: 64}
+        - {x: 55, y: 8}
+        - {x: 43, y: 7}
+        - {x: 39, y: 4}
+        - {x: 34, y: -1}
+        - {x: 35, y: 1}
+        - {x: 36, y: 8}
+        - {x: 33, y: 16}
+        - {x: 35, y: 10}
+        - {x: 37, y: 7}
+        - {x: 46, y: 8}
+        - {x: 41, y: 66}
+        - {x: 41, y: 67}
+        - {x: 7, y: 67}
+        - {x: -39, y: -11}
+        - {x: -39, y: -178}
+        - {x: 108, y: -178}
+        - {x: 110, y: -168}
+        - {x: 123, y: -105}
+        - {x: 123, y: -6}
+    - name: Move2_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: -177}
+        - {x: 105, y: 79}
+        - {x: -25, y: 79}
+        - {x: -39, y: 53}
+        - {x: -39, y: -177}
+        - {x: -9, y: -177}
+        - {x: 1, y: -164}
+        - {x: 1, y: -133}
+        - {x: 61, y: -177}
+      - - {x: 73, y: 33}
+        - {x: 66, y: 33}
+        - {x: 51, y: 14}
+        - {x: 51, y: 7}
+        - {x: 53, y: 6}
+        - {x: 61, y: 6}
+        - {x: 70, y: 16}
+        - {x: 74, y: 23}
+        - {x: 74, y: 30}
+    - name: Move2_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 90}
+        - {x: -17, y: 90}
+        - {x: -38, y: 85}
+        - {x: -38, y: -176}
+        - {x: 91, y: -176}
+        - {x: 91, y: -10}
+        - {x: 79, y: 58}
+    - name: Move2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: -11}
+        - {x: 87, y: 27}
+        - {x: 2, y: 98}
+        - {x: -3, y: 96}
+        - {x: -5, y: 94}
+        - {x: -19, y: 98}
+        - {x: -28, y: 98}
+        - {x: -31, y: 97}
+        - {x: -34, y: 83}
+        - {x: -34, y: 52}
+        - {x: -34, y: 54}
+        - {x: -36, y: 85}
+        - {x: -40, y: 89}
+        - {x: -51, y: 86}
+        - {x: -51, y: -176}
+        - {x: -9, y: -176}
+        - {x: 0, y: -173}
+        - {x: -1, y: -162}
+        - {x: 86, y: -136}
+        - {x: 91, y: -129}
+    - name: Move2_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: -174}
+        - {x: 69, y: -111}
+        - {x: 69, y: -96}
+        - {x: 48, y: -74}
+        - {x: 69, y: -66}
+        - {x: 69, y: 37}
+        - {x: 55, y: 85}
+        - {x: -18, y: 85}
+        - {x: -43, y: 73}
+        - {x: -24, y: 16}
+        - {x: -24, y: 9}
+        - {x: -24, y: 11}
+        - {x: -43, y: 30}
+        - {x: -53, y: 35}
+        - {x: -53, y: -160}
+        - {x: -49, y: -176}
+        - {x: -12, y: -176}
+        - {x: -1, y: -170}
+        - {x: -11, y: -125}
+        - {x: 24, y: -153}
+        - {x: 47, y: -168}
+      - - {x: -35, y: 20}
+        - {x: -25, y: 20}
+        - {x: -25, y: 30}
+        - {x: -37, y: 60}
+        - {x: -45, y: 60}
+        - {x: -45, y: 30}
+    - name: Move2_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -109}
+        - {x: 70, y: -14}
+        - {x: 36, y: 55}
+        - {x: 10, y: 62}
+        - {x: 8, y: 58}
+        - {x: 6, y: 19}
+        - {x: 11, y: 15}
+        - {x: 0, y: 15}
+        - {x: 1, y: 15}
+        - {x: 5, y: 17}
+        - {x: 4, y: 36}
+        - {x: 4, y: 64}
+        - {x: 0, y: 67}
+        - {x: -3, y: 67}
+        - {x: -7, y: 61}
+        - {x: -9, y: 46}
+        - {x: -8, y: 45}
+        - {x: -8, y: 54}
+        - {x: -11, y: 57}
+        - {x: -17, y: 56}
+        - {x: -60, y: -10}
+        - {x: -60, y: -114}
+        - {x: -41, y: -177}
+        - {x: 64, y: -177}
+        - {x: 60, y: -164}
+        - {x: 53, y: -159}
+    - name: Move2_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -177}
+        - {x: 74, y: -136}
+        - {x: 74, y: 37}
+        - {x: 71, y: 58}
+        - {x: 31, y: 97}
+        - {x: 15, y: 97}
+        - {x: 8, y: 77}
+        - {x: 5, y: 54}
+        - {x: 13, y: 44}
+        - {x: 16, y: 44}
+        - {x: 16, y: 39}
+        - {x: 17, y: 37}
+        - {x: 19, y: 32}
+        - {x: 16, y: 40}
+        - {x: 10, y: 45}
+        - {x: 5, y: 48}
+        - {x: -4, y: 48}
+        - {x: -1, y: 49}
+        - {x: 1, y: 59}
+        - {x: -3, y: 81}
+        - {x: -20, y: 97}
+        - {x: -29, y: 97}
+        - {x: -38, y: 71}
+        - {x: -32, y: 31}
+        - {x: -66, y: -11}
+        - {x: -66, y: -78}
+        - {x: -50, y: -177}
+        - {x: -19, y: -177}
+        - {x: -3, y: -169}
+        - {x: -6, y: -126}
+        - {x: 28, y: -177}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

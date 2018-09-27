@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 18776c8ba662d744090369d4617a4217
+timeCreated: 1454233797
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pl_Move2_0
+    21300002: Pl_Move2_1
+    21300004: Pl_Move2_2
+    21300006: Pl_Move2_3
+    21300008: Pl_Move2_4
+    21300010: Pl_Move2_5
+    21300012: Pl_Move2_6
+    21300014: Pl_Move2_7
+    21300016: Pl_Move2_8
+    21300018: Pl_Move2_9
+    21300020: Pl_Move2_10
+    21300022: Pl_Move2_11
+    21300024: Pl_Move2_12
+    21300026: Pl_Move2_13
+    21300028: Pl_Move2_14
+    21300030: Pl_Move2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pl_Move2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -177}
+        - {x: 74, y: -82}
+        - {x: 74, y: -22}
+        - {x: 39, y: 91}
+        - {x: -7, y: 91}
+        - {x: -52, y: 88}
+        - {x: -66, y: 50}
+        - {x: -66, y: -144}
+        - {x: -50, y: -177}
+        - {x: -7, y: -177}
+        - {x: -3, y: -169}
+        - {x: -6, y: -126}
+        - {x: 28, y: -177}
+      - - {x: -51, y: 82}
+        - {x: -50, y: 79}
+        - {x: -47, y: 79}
+        - {x: -45, y: 81}
+        - {x: -46, y: 84}
+        - {x: -49, y: 84}
+    - name: Pl_Move2_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -111}
+        - {x: -60, y: -176}
+        - {x: -59, y: -177}
+        - {x: 60, y: -177}
+        - {x: 60, y: 40}
+        - {x: 27, y: 54}
+        - {x: 6, y: 60}
+        - {x: -33, y: 60}
+        - {x: -70, y: -26}
+    - name: Pl_Move2_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 2}
+        - {x: 14, y: 65}
+        - {x: -27, y: 66}
+        - {x: -58, y: 66}
+        - {x: -62, y: 64}
+        - {x: -74, y: 4}
+        - {x: -74, y: -143}
+        - {x: -70, y: -176}
+        - {x: -33, y: -176}
+        - {x: -22, y: -170}
+        - {x: -9, y: -176}
+        - {x: 38, y: -176}
+        - {x: 41, y: -174}
+        - {x: 48, y: -139}
+    - name: Pl_Move2_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 66}
+        - {x: -83, y: 66}
+        - {x: -83, y: -56}
+        - {x: -70, y: -176}
+        - {x: -41, y: -176}
+        - {x: -34, y: -173}
+        - {x: 60, y: -162}
+        - {x: 60, y: -23}
+    - name: Pl_Move2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 27}
+        - {x: -18, y: 66}
+        - {x: -49, y: 66}
+        - {x: -92, y: 60}
+        - {x: -92, y: -15}
+        - {x: -79, y: -176}
+        - {x: -31, y: -176}
+        - {x: -22, y: -173}
+        - {x: -23, y: -162}
+        - {x: 64, y: -136}
+        - {x: 69, y: -129}
+    - name: Pl_Move2_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 56}
+        - {x: -55, y: -67}
+        - {x: -55, y: -177}
+        - {x: 86, y: -177}
+        - {x: 86, y: 26}
+        - {x: 39, y: 56}
+    - name: Pl_Move2_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 38}
+        - {x: 29, y: 42}
+        - {x: -6, y: 42}
+        - {x: -60, y: -136}
+        - {x: -60, y: -178}
+        - {x: 99, y: -178}
+        - {x: 102, y: -157}
+        - {x: 102, y: 4}
+    - name: Pl_Move2_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 58}
+        - {x: -5, y: 58}
+        - {x: -70, y: -80}
+        - {x: -70, y: -176}
+        - {x: 93, y: -176}
+        - {x: 93, y: -5}
+        - {x: 67, y: 43}
+    - name: Pl_Move2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 63}
+        - {x: -67, y: -169}
+        - {x: -67, y: -174}
+        - {x: -62, y: -176}
+        - {x: 70, y: -176}
+        - {x: 76, y: -175}
+        - {x: 96, y: -163}
+        - {x: 96, y: 63}
+    - name: Pl_Move2_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 44}
+        - {x: -7, y: 44}
+        - {x: -57, y: -83}
+        - {x: -57, y: -178}
+        - {x: 103, y: -178}
+        - {x: 105, y: -167}
+        - {x: 105, y: 3}
+        - {x: 60, y: 39}
+    - name: Pl_Move2_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: -177}
+        - {x: 81, y: -177}
+        - {x: 81, y: -17}
+        - {x: 50, y: 47}
+        - {x: 17, y: 68}
+        - {x: -24, y: 68}
+        - {x: -63, y: 10}
+        - {x: -63, y: -177}
+        - {x: -33, y: -177}
+        - {x: -23, y: -164}
+        - {x: -23, y: -133}
+        - {x: 41, y: -174}
+    - name: Pl_Move2_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 16}
+        - {x: -1, y: 60}
+        - {x: -30, y: 69}
+        - {x: -66, y: 69}
+        - {x: -66, y: -149}
+        - {x: -61, y: -176}
+        - {x: -33, y: -176}
+        - {x: -26, y: -173}
+        - {x: 46, y: -156}
+        - {x: 68, y: -149}
+    - name: Pl_Move2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -3}
+        - {x: 66, y: 26}
+        - {x: -4, y: 69}
+        - {x: -80, y: 69}
+        - {x: -80, y: -138}
+        - {x: -77, y: -176}
+        - {x: -31, y: -176}
+        - {x: -22, y: -173}
+        - {x: -23, y: -162}
+        - {x: 64, y: -136}
+        - {x: 69, y: -129}
+    - name: Pl_Move2_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 9}
+        - {x: 5, y: 49}
+        - {x: -9, y: 53}
+        - {x: -63, y: 53}
+        - {x: -68, y: 13}
+        - {x: -68, y: -135}
+        - {x: -64, y: -176}
+        - {x: -27, y: -176}
+        - {x: -16, y: -170}
+        - {x: -3, y: -176}
+        - {x: 54, y: -176}
+    - name: Pl_Move2_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 58}
+        - {x: -40, y: 58}
+        - {x: -74, y: -20}
+        - {x: -74, y: -144}
+        - {x: -66, y: -181}
+        - {x: 46, y: -181}
+        - {x: 56, y: -162}
+        - {x: 56, y: -41}
+        - {x: 31, y: 37}
+    - name: Pl_Move2_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -177}
+        - {x: 74, y: -133}
+        - {x: 74, y: -8}
+        - {x: 36, y: 87}
+        - {x: 35, y: 90}
+        - {x: 29, y: 90}
+        - {x: -27, y: 71}
+        - {x: -66, y: -2}
+        - {x: -66, y: -75}
+        - {x: -45, y: -176}
+        - {x: -43, y: -177}
+        - {x: -19, y: -177}
+        - {x: -3, y: -169}
+        - {x: -6, y: -126}
+        - {x: 28, y: -177}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
